@@ -1,0 +1,4 @@
+In index.html and index-v.html, I have commented the swiper div which is now
+hidden for page line no.123(Index.html) and Line no. 128 (index-v.html) As for
+changing background using pure HTML. I have use keyframes in line no. 29 in
+style.css. This keyframe changes background every four seconds.
